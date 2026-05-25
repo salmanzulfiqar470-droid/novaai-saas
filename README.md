@@ -28,4 +28,4 @@ Modern AI SaaS landing page built using:
 
 ## Live Demo
 
-novaai-saas.netlify.app
+https://novaai-saas.netlify.app/
